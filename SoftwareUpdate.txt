@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Replacing Images for torchscript.md (#8596)
